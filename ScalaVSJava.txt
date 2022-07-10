@@ -1,0 +1,10 @@
+
+
+        Scala                                                           Java
+        
+        * statically typed programming language                         * multi-platform, network-centric, programming language
+        * variables are by default immutable type                       * variables are by default mutable type
+        * uses an actor model for supporting modern concurrency         * follows conventional thread-based model for concurrency
+        * Does't have static members                                    * Have static members  
+        * operator overloading is supported                             * operator overloading is not supported
+        * Backward compatibility is not supported                       * Backward compatibility is supported
